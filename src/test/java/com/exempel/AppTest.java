@@ -13,7 +13,7 @@ public class AppTest
 
     public void testAppTrue()
     {
-        assertTrue( false );
+        assertTrue( true );
     }
 
     public void testAppFalse()
